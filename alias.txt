@@ -1,0 +1,6 @@
+alias humble="source /opt/ros/humble/setup.bash; echo \"ros2 humble is activated\""
+alias sb="source ~/.bashrc; echo \"bashrc is reloaded\""
+alias cc="colcon build"
+
+11
+
