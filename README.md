@@ -1,1 +1,1 @@
-# ubuntu settings
+# 여러가지 공부하면서 기록할것들
