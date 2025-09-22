@@ -1,0 +1,6 @@
+git init
+//처음 세팅할려고 git을 비움
+git pull
+git add .
+git commite -m "text"
+git push orign main
